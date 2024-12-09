@@ -35,8 +35,8 @@ With the development of quantum communication technology, scientists believe tha
 # command: jupyter lab
 # run the code in the web page of jupyter lab
 
-#Choice 2: Run on the cloud.
-# you can direclty run the source code in the IBM quantum platform.
+# Choice 2: Run on the cloud.
+# users can direclty run the source code in the IBM quantum platform.
 # 1. Download source code
 # git clone https://github.com/hebinjie33/EntanglementEncoding.git
 # 2. Copy the source code to IBM quantum platform 
@@ -44,8 +44,8 @@ With the development of quantum communication technology, scientists believe tha
 ```
 ## Note
 ```bash
-abc
-
+# 1，Users can visualize the quantum circuit by using "circuit.draw("mpl")".
+# 2, Users can simulate different scenarios by changing the parameters according to the code annotation, such as scenarios A, B, and C described in the paper.
 ```
 ## Authors
 - Binjie He (hebinjie33@gmail.com)
@@ -53,5 +53,4 @@ abc
 - Dong Zhang (zhangdong@fzu.edu.cn) 
 - Shengrui Lin (xmlsr@foxmail.com)
 - Luke Lu (luklu@cisco.com)
-```
-`
+
