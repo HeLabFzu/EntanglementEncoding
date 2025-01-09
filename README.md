@@ -9,14 +9,14 @@ Quantum entanglement is a critical resource for quantum networks, enabling quant
 		* `EEBED(3_nodes).ipynb` including the quantum circuit of 3-hop EEBED and the experiment of EEBED performance
 		* `EEBED(4_nodes).ipynb` including the quantum circuit of 4-hop EEBED and the experiment of EEBED performance
 		* `EEBED(indirectly throughput test).ipynb` calculating the throughput of EEBED according to the result of EEBED(3_nodes) and EEBED(4_nodes).
-- `ComparisonMethods`          source code of Entanglement Purification(EP), Surface Code(SC), traditional D-CNOT, and ordinary Entanglement Distribution (ordinary ED)
+- `ComparisonMethods`          source code of Entanglement Purification(EP), Surface Code(SC), traditional D-CNOT, and traditional Entanglement Distribution (traditional ED)
 	+ `D-CNOT` the experiment of EP-based D-CNOT, SC-based D-CNOT and traditional D-CNOT
 		* `EP Based D-CNOT.ipynb` including the quantum circuit of EP-based D-CNOT, and the experiment of EP-based D-CNOT performance
 		* `Surface Code Based D-CNOT(approximate simulation).ipynb` including the quantum circuit of SC-based D-CNOT, the experiment of SC-based D-CNOT performance
 		* `Traditional D-CNOT.ipynb` including the quantum circuit of traditional D-CNOT, the pilot experiment, and the experiment of traditional D-CNOT performance
-	+ `EntanglementDistribution` the experiment of Ordinary ED
-		* `ordinary_long_distance_ED(3_nodes).ipynb` including the quantum circuit of 3-hop ordinary ED, the experiment of ordinary ED performance, and the throughput of 3-hop ordinary ED
-		* `ordinary_long_distance_ED(4_nodes).ipynb` including the quantum circuit of 4-hop ordinary ED, the experiment of ordinary ED performance, and the throughput of 4-hop ordinary ED
+	+ `EntanglementDistribution` the experiment of traditional ED
+		* `ordinary_long_distance_ED(3_nodes).ipynb` including the quantum circuit of 3-hop traditional ED, the experiment of traditional ED performance, and the throughput of 3-hop traditional ED
+		* `ordinary_long_distance_ED(4_nodes).ipynb` including the quantum circuit of 4-hop traditional ED, the experiment of traditional ED performance, and the throughput of 4-hop traditional ED
 ## Run Experiments
 ```bash
 # Choice 1: Run locally. (Recommended)
